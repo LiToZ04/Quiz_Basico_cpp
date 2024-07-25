@@ -1,0 +1,8 @@
+﻿  Quiz.cpp
+C:\Users\ccast\Desktop\Codigos\Pruebas\Quiz\Quiz\Quiz.cpp(191,35): warning C4244: 'argumento': conversión de '_Rep' a 'int'; posible pérdida de datos
+C:\Users\ccast\Desktop\Codigos\Pruebas\Quiz\Quiz\Quiz.cpp(191,35): warning C4244:         with
+C:\Users\ccast\Desktop\Codigos\Pruebas\Quiz\Quiz\Quiz.cpp(191,35): warning C4244:         [
+C:\Users\ccast\Desktop\Codigos\Pruebas\Quiz\Quiz\Quiz.cpp(191,35): warning C4244:             _Rep=__int64
+C:\Users\ccast\Desktop\Codigos\Pruebas\Quiz\Quiz\Quiz.cpp(191,35): warning C4244:         ]
+C:\Users\ccast\Desktop\Codigos\Pruebas\Quiz\Quiz\Quiz.cpp(136,1): warning C4715: 'mostrarMenu': no todas las rutas de acceso de control devuelven un valor
+  Quiz.vcxproj -> C:\Users\ccast\Desktop\Codigos\Pruebas\Quiz\x64\Debug\Quiz.exe
